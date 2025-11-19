@@ -15,7 +15,7 @@ Oi! Eu sou o Nog — ou Cristian, para os mais próximos. Tenho 16 anos e passo 
 
 ##  Skills
 
-[![My Skills](https://skillicons.dev/icons?i=ps,express,py,js,figma,ts,css,html,react,ruby,svelte,next&perline=4)]
+[![My Skills](https://skillicons.dev/icons?i=ps,express,py,js,figma,ts,css,html,react,ruby,svelte,next&perline=4)](7pecados.fun)
 
 <br>
 
