@@ -19,7 +19,7 @@ Oi! Eu sou o Nog — ou Cristian, para os mais próximos. Tenho 16 anos e passo 
 
 <br>
 
-## 🎓 Sobre mim
+##  Sobre mim
 
 - 💼 Desenvolvedor movido por desafios e pela vontade de criar coisas realmente úteis  
 - 📖 Sempre estudando, explorando novas tecnologias e aprendendo com projetos reais  
@@ -27,7 +27,7 @@ Oi! Eu sou o Nog — ou Cristian, para os mais próximos. Tenho 16 anos e passo 
 
 <br>
 
-## 📫 Onde me encontrar:
+##  Onde me encontrar:
 
 [![Instagram](https://skillicons.dev/icons?i=instagram)](https://instagram.com/_dguerra061)
 [![Discord](https://skillicons.dev/icons?i=discord)](https://discordapp.com/users/1097599571640733708)
